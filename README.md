@@ -1,2 +1,3 @@
 # ArduinoHardwareMonitor
-Monitors the hardware of you PC and displays it on an external display using an arduino
+Monitors the hardware of you PC and displays it on an external display using an Arduino.
+
