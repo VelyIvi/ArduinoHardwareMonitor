@@ -1,0 +1,13 @@
+C:\DOC\Code\ArduinoHardwareMonitor\bin\Debug\ArduinoHardwareMonitor.exe.config
+C:\DOC\Code\ArduinoHardwareMonitor\bin\Debug\ArduinoHardwareMonitor.exe
+C:\DOC\Code\ArduinoHardwareMonitor\bin\Debug\ArduinoHardwareMonitor.pdb
+C:\DOC\Code\ArduinoHardwareMonitor\bin\Debug\OpenHardwareMonitorLib.dll
+C:\DOC\Code\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.csproj.AssemblyReference.cache
+C:\DOC\Code\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.csproj.SuggestedBindingRedirects.cache
+C:\DOC\Code\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.Form1.resources
+C:\DOC\Code\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.Properties.Resources.resources
+C:\DOC\Code\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.csproj.GenerateResource.cache
+C:\DOC\Code\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.csproj.CoreCompileInputs.cache
+C:\DOC\Code\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.csproj.CopyComplete
+C:\DOC\Code\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.exe
+C:\DOC\Code\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.pdb
