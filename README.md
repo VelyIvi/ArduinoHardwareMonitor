@@ -9,6 +9,9 @@ It uses openhardwaremonitor to read the data from your pc and using C# and seria
 The pc UI was created using "Windows Forms Designer" in the .NET environment.
 And the TFT lcd i used worked best with a custom library: TFT_HX8357
 
+## Images
+![Image of the Arduino display from the front](/Images/Front.jpg)
+![Image of the display from a weird angle](/Images/Image3.jpg)
 
 
 ### Libraries
