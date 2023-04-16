@@ -1,4 +1,4 @@
-https://github.com/VelyIvi/ArduinoHardwareMonitor/
+//https://github.com/VelyIvi/ArduinoHardwareMonitor/
 
 #include <TFT_HX8357.h> // Hardware-specific library
 
@@ -19,7 +19,7 @@ String readString, data;
 
 void setup(void) {
   tft.init();
-  tft.setRotation(1);
+  tft.setRotation(3);
   tft.fillScreen(0x0000);
   UpdateAll();
   Serial.begin(9600);
